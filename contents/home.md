@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Jackma-Q7](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Jackma-Q7)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+他目前是重庆邮电大学自主导航与微系统重庆市重点实验室&智能传感技术与微系统工程研究中心的二年级研究生。
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: jackma11222[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+2020-2024, 重庆邮电大学, 微电子科学与工程, 学士.\
+2024-2027, 重庆邮电大学, 集成电路工程, 硕士
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+四足机器人, 机器人操作系统(ROS), Gazebo仿真,集成电路设计,STM 32/ESP 32.
 

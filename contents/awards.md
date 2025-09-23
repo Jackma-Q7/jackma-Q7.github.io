@@ -13,4 +13,4 @@
 
 - First-Prize Enterprise Scholarship (CUMT), 2020.
 
-- First-Prize Scholarship (CUMT), 2019.
+- 重庆邮电大学第八届科技创新DIY实验挑战大赛 三等奖, 2020.

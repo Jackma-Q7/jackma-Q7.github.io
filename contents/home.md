@@ -1,6 +1,6 @@
 
 
-[![Jackma-Q7](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Jackma-Q7)
+[![Jackma-Q7](https://img.shields.io/badge/jackma-q7-blue?logo=github)](https://github.com/Jackma-Q7)
 
 硕士研究生,中国电子协会会员,嵌入式工程师.\
 他目前是重庆邮电大学自主导航与微系统重庆市重点实验室&智能传感技术与微系统工程研究中心的二年级研究生。

@@ -1,16 +1,20 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+#### Technical Research
 
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
+- 芯云未来--FPGA菁英挑战赛 二等奖, 2022.
 
 - 重庆邮电大学第八届科技创新DIY实验挑战大赛 三等奖, 2020.
+
+#### Comprehensive Skills 
+
+- 重庆邮电大学研究生会先进个人, 2025.
+
+- 重庆邮电大学光电工程学院研究生新生篮球赛 第二名, 2025.
+
+- 重庆邮电大学光电工程学院光电杯篮球赛 第二名, 2024.
+
+- 重庆邮电大学光电工程学院光电杯篮球赛 第一名, 2023.
+
+- 重庆邮电大学光电工程学院光电杯篮球赛 第一名, 2022.
+
+- 重庆邮电大学光电工程学院光电杯篮球赛 第二名, 2021.

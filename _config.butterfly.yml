@@ -39,7 +39,7 @@ index_post_content:
 
 aside:
   card_author:
-    description: 记录嵌入式、机器人与计算机视觉的学习和实践
+    description: 嵌入式、机器人、AI、固件开发
     button:
       enable: false
   card_announcement:
@@ -59,6 +59,12 @@ search:
 
 code_blocks:
   macStyle: true
+
+math:
+  use: mathjax
+  per_page: false
+  mathjax:
+    tags: ams
 
 footer:
   owner:

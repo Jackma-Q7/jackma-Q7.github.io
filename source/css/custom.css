@@ -104,6 +104,15 @@
   opacity: 0.75;
 }
 
+#article-container .resource-link .project-cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  margin: 0 0 12px;
+  border-radius: 6px;
+}
+
 @media (hover: hover) and (prefers-reduced-motion: no-preference) {
   #aside-content .card-widget:hover,
   #recent-posts > .recent-post-item:hover,

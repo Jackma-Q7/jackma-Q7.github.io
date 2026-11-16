@@ -7,6 +7,7 @@ menu:
     归档: /archives/ || fas fa-archive
     分类: /categories/ || fas fa-folder-open
     标签: /tags/ || fas fa-tags
+  项目: /projects/ || fas fa-diagram-project
   生活||fas fa-heart:
     相册: /gallery/ || fas fa-images
     音乐: /music/ || fas fa-music
@@ -25,8 +26,8 @@ cover:
   default_cover:
     - /images/banner.jpg
 avatar:
-  img: /images/avatar.svg
-favicon: /images/avatar.svg
+  img: /images/Nanbei.jpg
+favicon: /images/Nanbei.jpg
 subtitle:
   enable: true
   effect: false

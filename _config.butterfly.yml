@@ -1,0 +1,68 @@
+nav:
+  fixed: true
+
+menu:
+  首页: / || fas fa-home
+  博文||fas fa-book:
+    归档: /archives/ || fas fa-archive
+    分类: /categories/ || fas fa-folder-open
+    标签: /tags/ || fas fa-tags
+  生活||fas fa-heart:
+    相册: /gallery/ || fas fa-images
+    音乐: /music/ || fas fa-music
+    影视: /movies/ || fas fa-film
+    积累: /accumulation/ || fas fa-layer-group
+  关于: /about/ || fas fa-user
+  友链: /links/ || fas fa-link
+
+default_top_img: /images/banner.jpg
+index_img: /images/banner.jpg
+background: /images/mountains.jpg
+index_top_img_height: 100vh
+index_site_info_top: 43%
+index_layout: 4
+cover:
+  default_cover:
+    - /images/banner.jpg
+avatar:
+  img: /images/avatar.svg
+favicon: /images/avatar.svg
+subtitle:
+  enable: true
+  effect: false
+  sub:
+    - 记录学习与生活，在实践中慢慢积累
+index_post_content:
+  method: 3
+  length: 240
+
+aside:
+  card_author:
+    description: 记录嵌入式、机器人与计算机视觉的学习和实践
+    button:
+      enable: false
+  card_announcement:
+    enable: true
+    content: 欢迎来到我的技术博客
+
+search:
+  use: local_search
+  placeholder: 搜索文章或页面
+  local_search:
+    preload: true
+    top_n_per_article: -1
+    unescape: true
+    pagination:
+      enable: true
+      hitsPerPage: 10
+
+code_blocks:
+  macStyle: true
+
+footer:
+  owner:
+    since: 2026
+
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/custom.css?v=2">

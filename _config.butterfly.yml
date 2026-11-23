@@ -37,6 +37,10 @@ index_post_content:
   method: 3
   length: 240
 
+social:
+  fab fa-github: https://github.com/Jackma-Q7 || Github || '#24292e'
+  fab fa-bilibili: https://space.bilibili.com/699079667 || Bilibili || '#fb7299'
+
 aside:
   card_author:
     description: 嵌入式、机器人、AI、固件开发

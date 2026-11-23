@@ -10,17 +10,17 @@ comments: false
 
 <div class="resource-links">
   <a class="resource-link" href="/projects/2026/rk3588-yolo/">
-    <img class="project-cover" src="/images/2026/rk3588-yolo-cover.jpg" alt="RK3588 YOLO 实例分割项目封面" loading="lazy">
+    <img class="project-cover" src="/images/2026/Project/3.RK3588-YOLO/rk3588-yolo-cover.jpg" alt="RK3588 YOLO 实例分割项目封面" loading="lazy">
     <strong>RK3588-YOLO · NPU 视觉推理与加速</strong>
     <span>RK3588 · YOLOv5 / YOLOv8 · 目标检测 · 人体姿态估计 · 实例分割</span>
   </a>
   <a class="resource-link" href="/projects/2026/xbotpark/">
-    <img class="project-cover" src="/images/2026/local.jpg" alt="XbotPark UWB 定位轨迹项目封面" loading="lazy">
+    <img class="project-cover" src="/images/2026/Project/1.XbotPark/local.jpg" alt="XbotPark UWB 定位轨迹项目封面" loading="lazy">
     <strong>XbotPark · 建筑外立面检测机器人</strong>
     <span>UWB 定位 · STM32 · ROS2 · RTK · 雷达数据处理</span>
   </a>
   <a class="resource-link" href="/projects/2026/sensors/">
-    <img class="project-cover" src="/images/2026/lidar接线图.jpg" alt="Sensors 激光雷达接口项目封面" loading="lazy">
+    <img class="project-cover" src="/images/2026/Project/2.Sensors/lidar接线图.jpg" alt="Sensors 激光雷达接口项目封面" loading="lazy">
     <strong>Sensors · 多传感器同步与标定</strong>
     <span>STM32 · 激光雷达 · 工业相机 · 时间同步 · ROS 2 · 传感器标定</span>
   </a>

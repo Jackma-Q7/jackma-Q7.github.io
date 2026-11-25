@@ -8,6 +8,7 @@ menu:
     分类: /categories/ || fas fa-folder-open
     标签: /tags/ || fas fa-tags
   项目: /projects/ || fas fa-diagram-project
+  论文: /papers/ || fas fa-file-lines
   生活||fas fa-heart:
     相册: /gallery/ || fas fa-images
     音乐: /music/ || fas fa-music

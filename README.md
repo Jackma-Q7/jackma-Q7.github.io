@@ -65,7 +65,7 @@ git push
 | --- | --- |
 | `source/_posts/` | 文章 |
 | `source/projects/index.md` | 项目展示页 |
-| `source/about/`、`accumulation/`、`gallery/`、`music/`、`movies/`、`links/` | 各栏目页面，编辑对应 `index.md` |
+| `source/about/`、`accumulation/`、`gallery/`、`music/`、`movies/`、`links/`、`papers/` | 各栏目页面，编辑对应 `index.md` |
 | `source/images/` | 图片与头像 |
 | `source/css/custom.css` | 自定义样式 |
 | `_config.yml` | 网站地址、标题和 Hexo 配置 |

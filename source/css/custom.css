@@ -127,6 +127,12 @@
   }
 }
 
+/* MathJax 4 gives every formula overflow-x: auto; an accent makes an inline formula overflow by a
+   fraction of a pixel, which draws a scrollbar under it. Display formulas keep the scrolling. */
+mjx-container:not([display]) {
+  overflow: clip;
+}
+
 @media (max-width: 768px) {
   #page-header {
     background-position: center;
